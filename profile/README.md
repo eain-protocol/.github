@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/eain-protocol/.github/main/assets/eain-cover.png"
+    alt="EAIN - Embedded AI Interchange Notation"
+    width="100%"
+  />
+</p>
+
 # EAIN — Embedded AI Interchange Notation
 
 **Human-readable for developers. Deterministic for devices. Semantic for AI.**
